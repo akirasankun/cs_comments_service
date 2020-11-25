@@ -238,6 +238,7 @@ DEPENDENCIES
   newrelic_rpm
   nokogiri (~> 1.8.1)
   protected_attributes
+  url (0.3.2)
   pry
   pry-nav
   rack-contrib!
